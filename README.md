@@ -9,3 +9,8 @@
 ## Задание 4. 
 ![Alt text](https://github.com/uliagusevaa123/hw6/blob/master/photo_2018-04-08_23-38-26.jpg) 
 ## Задание 5. 
+![Alt text](https://github.com/uliagusevaa123/hw6/blob/master/photo_2018-04-09_00-30-32.jpg) 
+Мы видим, что оба глагола могут употребляться с такими словами, как "day","accident". Однако слово "error" употребляется только с "occur", когда как слово "crash" употребляется только с "happen". 
+## Задание 7(бонус). 
+
+ 
