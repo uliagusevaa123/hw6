@@ -13,4 +13,5 @@
 Мы видим, что оба глагола могут употребляться с такими словами, как "day","accident". Однако слово "error" употребляется только с "occur", когда как слово "crash" употребляется только с "happen". 
 ## Задание 7(бонус). 
 Я проанализировала частотность употребления слова awards. В Scetch engine и в NGram заметен постепенный рост популярности использования данного слова. Однако в NGram(с 1978 по 2000) рост более плавный и нет пика использования в 1992 году, как в Scetch engine.
-![Alt text](https://github.com/uliagusevaa123/hw6/blob/master/photo_2018-04-09_00-51-44.jpg)
+![Alt text](https://github.com/uliagusevaa123/hw6/blob/master/photo_2018-04-09_00-51-44.jpg) 
+![Alt text](https://github.com/uliagusevaa123/hw6/blob/master/photo_2018-04-09_00-42-50.jpg)
